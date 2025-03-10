@@ -1,0 +1,9 @@
+Group Members
+1. Frank Wember
+Enhancements
+Pressing the escape button opens the pause menu.
+The pause menu allows adjustments to Master volume, SoundFX, and Music levels.
+Background music has been added to enhance gameplay.
+There is a 10% chance of encountering a larger red ball instead of the standard one.
+The larger red ball has greater mass and is more effective at breaking walls and slabs.
+The game now includes a start menu, a game-over menu, and an about menu for a more polished user interface.
